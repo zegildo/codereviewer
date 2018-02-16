@@ -1,0 +1,45 @@
+Scenario 1: Dazed and Confused
+Me: Hello [Student], don't worry. It is a very normal situation. I'm a mentor during a lot of months and I can tell you that many students have many questions at this point. During the course we will win trust and the things will go better and better. What problem do you try to solve? What your biggest difficult? How can I help you? Please, feel free to ask your questions and be sure we will help you.
+
+Rational: The student seems to be very frustrated and discouraged. With this in mind, I try to empathize that it is a very normal situation that he or she is not less smart than other students and restore the student confidence. Second, we should open a free dialog to understand the exactly doubts the student has and effectively solve them. It is also important to transmit to the student that we are a company concerned about the quality of learning and every task has an important propose in student training.      
+
+
+Scenario 2: Mean Means
+Mentor: Hello [Student], it's a very interesting question. Mean, median, average are different ways to measure a central tendency take a look (https://en.wikipedia.org/wiki/Central_tendency). Specifically about the difference between mean and average, maybe doesn't exist. Take a look this two links: https://www.quora.com/What-is-difference-between-the-mean-and-the-average, http://mathcentral.uregina.ca/qq/database/qq.09.00/julie1.html. Please, tell us, What do you think?
+
+Rational: The student seems confusing about the application of the central tendency concepts in a practical activity, but not frustrated. We should enjoy this opportunity to open questions and encouraging this student to tell us more about his/her difficulties freely. We also should enjoy this moment to try to consolidate a trusted dialog and his/her interesting with some extra examples about central tendencies discussing his/her understanding. 
+ 
+
+Scenario 3: Mindset Reset
+Mentor: Hi, Student A and B. @Student A: First, I think you should opportunize your friend to speak freely about his/her doubts. Second, you should do your best to discuss with him/her in order to provide a growth mind for both. Third, if something is not clear you can ask us a question. Will be my pleasure to help you and your friend to understand something still unclear.
+
+@Student B, everyone, even mentors, and teachers, always has more to learn, and we will keep learning by pushing ourselves to try new things!
+
+Rational: Mentor having to prevent conflict from escalating between these two students. Student B speaks to Student A in a way that comes across as a bit condescending and no encouraging of a growth mindset. We need to provide to Student A a solid advice that reflects what we've learned in this course about teaching best practices and respectfully counter Student B's fixed mindset message with encouragement and information about the benefits and advantages of the growth mindset.
+
+Scenario 4: It's just too much
+Mentor: Hi [Student], Please, don't feel bad. Just take in mind that is it a very normal process. Tell us about your difficulties with the project. What are the main questions about it? I'm very confident that I can help you to solve them.
+
+Do you know the slack channel? It is another place where you can express yourself and ask us and your peers about many doubts. I strongly recommend you. If these tips are not enough we can figure out some more options!
+
+Rational: The student is frustrated maybe because he/she underestimate the difficult envolve with the projects. The goal is to calm down the student and to explain to him/her that the frustration is valid, normal and necessary to get the professional skills. As a mentor, I tried to calm him down, to mention that is a natural and normal process. Finally, put myself at ease to explain your doubts.
+
+
+Scenario 5: Unsupportive Support
+Mentor: Hi [Student], I'm sorry you are having such difficulties, but I am here to help! It is very important to notice that even if you get the answers this is an insignificant detail face of something much deeper: your learning. All of us have the same goal of helping each student achieve his or her professional goals, the better. Please, feel free to ask us about all your doubts and questions. I'm very sure we will find a way to help you to become the best professional you can be.
+
+
+Rational: The student is frustrated about the solution of the problem. We should articulate why it benefits the student to be an active, independent learner and how it is better than simply get the answers. 
+
+Scenario 6: Margot's Strawberries
+Student: I am just staring at this word problem and have no idea how to start or what to do. I keep reading through it and glazing over and feeling lost. Help?
+
+Mentor prompt #1: Hi [Student], I'm so glad to help you. So, Do you have all information you need? 
+
+Student: Okay, so I have s = # strawberries, c = cost per strawberry in dollars, c = 7/18, and 8 = c * s. But now what?
+
+Mentor prompt #2: Hi [Student], you are almost there. You are in the right direction. Now you have all information that you need to find a number of strawberries.
+
+Student: I have s = 144/7. Is that it?
+
+Mentor prompt #3: Yes, you did an excellent job. We are almost there. Right now, s is a fraction. 144/7 is a fraction. Look at the hint: She can’t buy part of a strawberry :). In other words, we are interested in the integer part of this fraction. If you solve 144/7 how many whole strawberries will you have?
